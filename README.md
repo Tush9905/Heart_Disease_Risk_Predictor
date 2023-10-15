@@ -1,4 +1,7 @@
 # Heart_Disease_Risk_Predictor
+
+https://github.com/Tush9905/Heart_Disease_Risk_Predictor/assets/106832149/0e0fb81e-3eb5-4289-9757-9293e8b5e847
+
 **requirements.txt contains the required libraries and versions required for the project.**
 
 ### About
@@ -6,6 +9,4 @@
 * Achieved an accuracy of **98%** with the Machine Learning Model using the Random Forest Classifier ML Algorithm using Scikit Learn.
 * Developed the Web App using Streamlit.
 * Tech Used - **Python, Pandas, Scikit Learn, Streamlit.**
-
-https://github.com/Tush9905/Heart_Disease_Risk_Predictor/assets/106832149/0e0fb81e-3eb5-4289-9757-9293e8b5e847
 
